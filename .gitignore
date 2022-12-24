@@ -101,6 +101,6 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
-# Lingogine specific stuff
+# LinGo specific stuff
 bin
 bin-int
