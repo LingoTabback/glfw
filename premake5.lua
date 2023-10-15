@@ -78,6 +78,8 @@ project "GLFW"
 			"Dwmapi.lib"
 		}
 
+		callingconvention ("FastCall")
+
 	filter "configurations:Debug"
 		runtime "Debug"
 		symbols "on"
